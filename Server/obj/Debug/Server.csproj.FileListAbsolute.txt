@@ -1,0 +1,17 @@
+D:\C#\TP\Project Chatting\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\C#\TP\Project Chatting\Server\bin\Debug\Server.exe.config
+D:\C#\TP\Project Chatting\Server\bin\Debug\Server.exe
+D:\C#\TP\Project Chatting\Server\bin\Debug\Server.pdb
+D:\C#\TP\Project Chatting\Server\bin\Debug\Communication.dll
+D:\C#\TP\Project Chatting\Server\bin\Debug\Communication.pdb
+D:\C#\TP\Project Chatting\Server\obj\Debug\Server.exe
+D:\C#\TP\Project Chatting\Server\obj\Debug\Server.pdb
+D:\『文档』\『大学』\『M1-1- C# et environment.net』\Project Chatting\Server\bin\Debug\Server.exe.config
+D:\『文档』\『大学』\『M1-1- C# et environment.net』\Project Chatting\Server\bin\Debug\Server.exe
+D:\『文档』\『大学』\『M1-1- C# et environment.net』\Project Chatting\Server\bin\Debug\Server.pdb
+D:\『文档』\『大学』\『M1-1- C# et environment.net』\Project Chatting\Server\bin\Debug\Communication.dll
+D:\『文档』\『大学』\『M1-1- C# et environment.net』\Project Chatting\Server\bin\Debug\Communication.pdb
+D:\『文档』\『大学』\『M1-1- C# et environment.net』\Project Chatting\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\『文档』\『大学』\『M1-1- C# et environment.net』\Project Chatting\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\『文档』\『大学』\『M1-1- C# et environment.net』\Project Chatting\Server\obj\Debug\Server.exe
+D:\『文档』\『大学』\『M1-1- C# et environment.net』\Project Chatting\Server\obj\Debug\Server.pdb

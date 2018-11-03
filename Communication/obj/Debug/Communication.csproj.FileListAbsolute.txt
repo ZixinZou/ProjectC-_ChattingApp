@@ -1,0 +1,5 @@
+D:\C#\TP\Project Chatting\Communication\bin\Debug\Communication.dll
+D:\C#\TP\Project Chatting\Communication\bin\Debug\Communication.pdb
+D:\C#\TP\Project Chatting\Communication\obj\Debug\Communication.csprojResolveAssemblyReference.cache
+D:\C#\TP\Project Chatting\Communication\obj\Debug\Communication.dll
+D:\C#\TP\Project Chatting\Communication\obj\Debug\Communication.pdb

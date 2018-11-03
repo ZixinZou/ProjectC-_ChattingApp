@@ -1,0 +1,32 @@
+D:\C#\TP\Sample of the chat windows\Sample of the chat windows\bin\Debug\Sample of the chat windows.exe.config
+D:\C#\TP\Sample of the chat windows\Sample of the chat windows\obj\Debug\Sample of the chat windows.exe
+D:\C#\TP\Sample of the chat windows\Sample of the chat windows\obj\Debug\Sample of the chat windows.pdb
+D:\C#\TP\Project Chatting\Sample of the chat windows\obj\Debug\Sample_of_the_chat_windows.ChatRoom.resources
+D:\C#\TP\Project Chatting\Sample of the chat windows\obj\Debug\Sample_of_the_chat_windows.Log_in.resources
+D:\C#\TP\Project Chatting\Sample of the chat windows\obj\Debug\Sample_of_the_chat_windows.Properties.Resources.resources
+D:\C#\TP\Project Chatting\Sample of the chat windows\obj\Debug\Sample_of_the_chat_windows.Sign_up.resources
+D:\C#\TP\Project Chatting\Sample of the chat windows\obj\Debug\Sample_of_the_chat_windows.Topic_selection.resources
+D:\C#\TP\Project Chatting\Sample of the chat windows\obj\Debug\Chat windows.csproj.GenerateResource.Cache
+D:\C#\TP\Project Chatting\Sample of the chat windows\bin\Debug\Sample of the chat windows.exe.config
+D:\C#\TP\Project Chatting\Sample of the chat windows\bin\Debug\Sample of the chat windows.exe
+D:\C#\TP\Project Chatting\Sample of the chat windows\bin\Debug\Sample of the chat windows.pdb
+D:\C#\TP\Project Chatting\Sample of the chat windows\bin\Debug\Communication.dll
+D:\C#\TP\Project Chatting\Sample of the chat windows\bin\Debug\Communication.pdb
+D:\C#\TP\Project Chatting\Sample of the chat windows\obj\Debug\Chat windows.csprojResolveAssemblyReference.cache
+D:\C#\TP\Project Chatting\Sample of the chat windows\obj\Debug\Sample of the chat windows.exe
+D:\C#\TP\Project Chatting\Sample of the chat windows\obj\Debug\Sample of the chat windows.pdb
+D:\『文档』\『大学』\『M1-1- C# et environment.net』\Project Chatting\Sample of the chat windows\bin\Debug\Sample of the chat windows.exe.config
+D:\『文档』\『大学』\『M1-1- C# et environment.net』\Project Chatting\Sample of the chat windows\bin\Debug\Sample of the chat windows.exe
+D:\『文档』\『大学』\『M1-1- C# et environment.net』\Project Chatting\Sample of the chat windows\bin\Debug\Sample of the chat windows.pdb
+D:\『文档』\『大学』\『M1-1- C# et environment.net』\Project Chatting\Sample of the chat windows\bin\Debug\Communication.dll
+D:\『文档』\『大学』\『M1-1- C# et environment.net』\Project Chatting\Sample of the chat windows\bin\Debug\Communication.pdb
+D:\『文档』\『大学』\『M1-1- C# et environment.net』\Project Chatting\Sample of the chat windows\obj\Debug\Chat windows.csprojResolveAssemblyReference.cache
+D:\『文档』\『大学』\『M1-1- C# et environment.net』\Project Chatting\Sample of the chat windows\obj\Debug\Sample_of_the_chat_windows.ChatRoom.resources
+D:\『文档』\『大学』\『M1-1- C# et environment.net』\Project Chatting\Sample of the chat windows\obj\Debug\Sample_of_the_chat_windows.Log_in.resources
+D:\『文档』\『大学』\『M1-1- C# et environment.net』\Project Chatting\Sample of the chat windows\obj\Debug\Sample_of_the_chat_windows.Properties.Resources.resources
+D:\『文档』\『大学』\『M1-1- C# et environment.net』\Project Chatting\Sample of the chat windows\obj\Debug\Sample_of_the_chat_windows.Sign_up.resources
+D:\『文档』\『大学』\『M1-1- C# et environment.net』\Project Chatting\Sample of the chat windows\obj\Debug\Sample_of_the_chat_windows.Topic_selection.resources
+D:\『文档』\『大学』\『M1-1- C# et environment.net』\Project Chatting\Sample of the chat windows\obj\Debug\Chat windows.csproj.GenerateResource.Cache
+D:\『文档』\『大学』\『M1-1- C# et environment.net』\Project Chatting\Sample of the chat windows\obj\Debug\Chat windows.csproj.CoreCompileInputs.cache
+D:\『文档』\『大学』\『M1-1- C# et environment.net』\Project Chatting\Sample of the chat windows\obj\Debug\Sample of the chat windows.exe
+D:\『文档』\『大学』\『M1-1- C# et environment.net』\Project Chatting\Sample of the chat windows\obj\Debug\Sample of the chat windows.pdb
